@@ -1,6 +1,6 @@
 :root {
     --main-color: #eed817;
-    --black: #100f18;
+    --black: #000000;
     --bg: #272727;
     --border: 0.3rem solid rgb(0, 0, 0); /* Corrigido de 2555 para 255 */
     font-size: 10px;
